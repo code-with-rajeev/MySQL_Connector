@@ -1,2 +1,4 @@
 # PythonProject
-Here are some of my python projects
+Here are some of my projects.
+
+1. MySQL_Connector
