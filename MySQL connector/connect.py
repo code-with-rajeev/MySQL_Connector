@@ -6,13 +6,11 @@ Created on Thu Jan  7 14:35:15 2021
 """
 
 import warnings
+from get_connection import connector
 try:
     from mysql.connector import connect
 except Exception as a:
     print(f"mysql.connector is missing")
-
-a = connect(user =  "Rajeev",password ="Rajeevbro420@")
-
 
 
 class user:
