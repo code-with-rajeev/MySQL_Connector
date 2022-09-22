@@ -33,6 +33,14 @@ my_school = user1.use("school_database")
 # creating table
 student = input("enter table title\n")
 Student_Records = my_school.create(student, "name c(10) PRIMARY KEY, id v(10) , roll_no i(2)")
-#renamed i -> int, char -> c, v -> varchar
+# optional_shortcuts i -> int, char -> c, v -> varchar
 
 Student_Records.show() # prints table
+# and many more features like 
+# item(name) select column
+# drop(name) drop table
+# desc(name) describe table/database
+# is_exist(name) existence command
+# insert(name) update command
+# add(name) update command
+# etc....
