@@ -10,6 +10,8 @@ About this Project
 
     - no more long SQL queries.
 
-       see how?
+  
 
 How this project is different from mysql.connector?
+
+https://github.com/code-with-rajeev/PythonProject/blob/main/MySQL_connector/how_to_use.py
