@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Dec  7 22:37:40 2020
+Created on Sat July 2 22:37:40 2022
 
 @author: ACER
 """
@@ -23,16 +23,13 @@ def connector(user=false,password=false):
         x = a.connect(user = user_, password = password_)
     except Exception as y:
         print(f"\nGRPS_CONN_FAILUE_ERROR : \n{y}")
-        choice= input("\n want to reconnect[y/n]")
+        choice= input("\n want to reconnect[Y or y] ")
         if choice in ["Y","y"]:
             print("reconnecting...\n")
-            connector()
-        elif choice in ["N","n"]:
-            print("cancelled")
-            return None
+            x = connector()
         else:
-            print("invalid option")
-            connector()
+            print("disconnected\n returned None\n")
+            return None
     return x
 connect = connector
 if __name__ == "__main__":
