@@ -6,6 +6,12 @@ About this Project
 
     - make multiple connections.
 
+• connect with MySQL database.
+
+    - Integration of Python code with MySQL to enhance performance and flexibility.
+    
+    - Utilized Python's data structure and algorithm for manipulating databases.
+    
 • user-friendly
 
     - no more long SQL queries.
