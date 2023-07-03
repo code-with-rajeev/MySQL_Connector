@@ -20,8 +20,7 @@ To address the limitations of SQL queries, I developed a Python-based solution t
 </details>
 
 ## How to use?
-[![Please check this]]
-(https://github.com/code-with-rajeev/MySQL_Connector/blob/main/MySQL_connector/how_to_use.py))
+[![Please check this](https://github.com/code-with-rajeev/MySQL_Connector/blob/main/MySQL_connector/how_to_use.py)]
 
 ## Sample Examples
 [![Try it out]](https://example.com/live-demo](https://github.com/code-with-rajeev/MySQL_Connector/blob/main/MySQL_connector/Examples/))
