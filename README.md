@@ -23,7 +23,7 @@ To address the limitations of SQL queries, I developed a Python-based solution t
 [Please check this](https://github.com/code-with-rajeev/MySQL_Connector/blob/main/MySQL_connector/how_to_use.py)
 
 ## Sample Examples
-[Try these sample codes](https://example.com/live-demo](https://github.com/code-with-rajeev/MySQL_Connector/blob/main/MySQL_connector/Examples/))
+[Try these sample codes](https://example.com/live-demo](https://github.com/code-with-rajeev/MySQL_Connector/blob/main/MySQL_connector/Examples))
 
 
 ## Installation
