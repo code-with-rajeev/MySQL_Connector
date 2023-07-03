@@ -6,7 +6,7 @@ About this Project
 
     - make multiple connections.
 
-• connect with MySQL database.
+• Key features.
 
     - Integration of Python code with MySQL to enhance performance and flexibility.
     
